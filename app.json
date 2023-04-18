@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Digital-Clock",
+    "slug": "Digital-Clock",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
